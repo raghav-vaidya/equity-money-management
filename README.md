@@ -1,4 +1,4 @@
-# equity-money-management
+# Equity Money Management
 
 An index fund is like a bundle that includes a variety of stocks or bonds. It aims to mimic the performance of a specific market index, such as the NASDAQ 100. By investing in an index fund, you essentially own a small piece of numerous companies, providing a diversified and simplified approach to investing. Few of the components of NASDAQ 100 are given below.
 
